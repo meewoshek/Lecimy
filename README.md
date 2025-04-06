@@ -64,14 +64,10 @@
     <h1>Trener online ale efekty już stacjonarne</h1>
     <p>Prosty plan + Prosta dieta = Świetne efekty</p>
   </header>
-  
-  <header>
-<img src="https://github.com/meewoshek/Sieeema/raw/main/images/IMG_4905.jpg" alt="Header Image">
-</header>
 
   <section>
     <h2>Kim jestem?</h2>
-    <p>Cześć! Nazywam się Miłosz, jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomagam ludziom ogarnąć swoje ciało i zdrowie – bez presji, stresu i magicznych diet. Wszystko w Twoim tempie. Sprawdź sam i przekonaj się na własnym ciele.</p>
+    <p>Cześć! Nazywam się Miłosz, jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – bez presji, stresu i magicznych diet. Wszystko w Twoim tempie. Sprawdź sam i przekonaj się na własnym ciele.</p>
   </section>
 
   <section>
