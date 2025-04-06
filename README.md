@@ -66,7 +66,7 @@
   </header>
   
   <header>
-<img src="https://github.com/meewoshek/Sieeema/blob/197d4f957835c9dced3bad5e9c43c87e89fbb85d/IMG_4905.jpg" alt="Header Image">
+<img src="https://github.com/meewoshek/Sieeema/raw/197d4f957835c9dced3bad5e9c43c87e89fbb85d/IMG_4905.jpg" alt="Header Image">
 </header>
 
   <section>
