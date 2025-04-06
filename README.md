@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pl">
 <head>
   <meta charset="UTF-8" />
@@ -62,12 +62,12 @@
 <body>
   <header>
     <h1>Zacznij trenować bez spiny</h1>
-    <p>Prosty plan. Bez stresu. Z moim wsparciem.</p>
+    <p>Prosty plan + Prosta dieta = Świetne efekty</p>
   </header>
 
   <section>
     <h2>Kim jestem?</h2>
-    <p>Nazywam się [Twoje Imię], jestem certyfikowanym trenerem personalnym. Pomagam ludziom ogarnąć swoje ciało i zdrowie – bez presji, stresu i magicznych diet. Wszystko w Twoim tempie.</p>
+    <p>Nazywam się Miłosz, jestem certyfikowanym trenerem personalnym. Pomagam ludziom ogarnąć swoje ciało i zdrowie – bez presji, stresu i magicznych diet. Wszystko w Twoim tempie. Sprawdź sam i przekonaj się na własnym ciele.</p>
   </section>
 
   <section>
@@ -82,39 +82,39 @@
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
     <div class="cta">
-      <p>Chcesz plan? Napisz do mnie na IG: <strong>@twojnick</strong></p>
-      <a href="https://www.instagram.com/twojnick" target="_blank">Zgarnij plan!</a>
+      <p>Chcesz plan? Napisz do mnie na IG: <strong>@milobek11</strong></p>
+      <a href="https://www.instagram.com/milobek11" target="_blank">Zgarnij plan!</a>
     </div>
   </section>
 
   <section>
     <h2>Indywidualne prowadzenie online</h2>
     <div class="offer">
-      <h3>Starter – 99 zł / miesiąc</h3>
+      <h3>Starter – 129 zł / miesiąc</h3>
       <p>Gotowy plan treningowy + wsparcie mailowe. Idealny na początek.</p>
     </div>
     <div class="offer">
       <h3>Standard – 249 zł / miesiąc</h3>
-      <p>Indywidualny plan treningowy, analiza techniki, stały kontakt przez WhatsApp / e-mail.</p>
+      <p>Indywidualny plan treningowy, analiza techniki, stały kontakt przez messegner/instagram/e-mail.</p>
     </div>
     <div class="offer">
       <h3>Premium – 449 zł / miesiąc</h3>
       <p>Pełne wsparcie 1:1, regularne rozmowy wideo, analiza stylu życia, codzienny kontakt i indywidualna opieka.</p>
     </div>
     <div class="cta">
-      <p>Masz pytania? Napisz do mnie na IG: <strong>@twojnick</strong></p>
-      <a href="https://www.instagram.com/twojnick" target="_blank">Porozmawiajmy!</a>
+      <p>Masz pytania? Napisz do mnie na IG: <strong>@milobek11</strong></p>
+      <a href="https://www.instagram.com/milobek11" target="_blank">Porozmawiajmy!</a>
     </div>
   </section>
 
   <section>
     <h2>🔥 Miesięczne wyzwania</h2>
-    <p>Co miesiąc nowy cel, grupa wsparcia i wspólna motywacja.  
+    <p>Chcesz dodatkową motywację w postaci wyzwań? Już ja coś dla Ciebie znajdę!  
     Zapisz się na IG: <strong>@twojnick</strong></p>
   </section>
 
   <footer>
-    <p>&copy; 2025 [Twoje Imię] | Trening online z ludzkim podejściem</p>
+    <p>&copy; 2025 Miłosz Bembenek | Trening online ale efekty już stacjonarne</p>
   </footer>
 </body>
 </html>
