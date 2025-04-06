@@ -67,7 +67,7 @@
 
   <section>
     <h2>Kim jestem?</h2>
-    <p>Nazywam się Miłosz, jestem certyfikowanym trenerem personalnym. Pomagam ludziom ogarnąć swoje ciało i zdrowie – bez presji, stresu i magicznych diet. Wszystko w Twoim tempie. Sprawdź sam i przekonaj się na własnym ciele.</p>
+    <p>Cześć! Nazywam się Miłosz, jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcia do kolejnego i kolejnego, i kolejnego treningu. Pomagam ludziom ogarnąć swoje ciało i zdrowie – bez presji, stresu i magicznych diet. Wszystko w Twoim tempie. Sprawdź sam i przekonaj się na własnym ciele.</p>
   </section>
 
   <section>
