@@ -83,7 +83,7 @@
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
     <div class="cta">
-      <p>Pamiętaj żeby zaobserwować profil 😎 <strong>@milobek11</strong></p>
+      <p>Pamiętaj żeby zaobserwować profil! 😎 <strong>@milobek11</strong></p>
       <a href="https://www.instagram.com/milobek11" target="_blank">Zgarnij plan!</a>
     </div>
   </section>
