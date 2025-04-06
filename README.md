@@ -95,11 +95,11 @@
     </div>
     <div class="offer">
       <h3>Standard – 299 zł / miesiąc</h3>
-      <p>Indywidualny plan treningowy, analiza techniki, dieta, stały kontakt przez messegner/instagram/e-mail.</p>
+      <p>Indywidualny plan treningowy, analiza techniki, dieta, stały kontakt przez messegner/instagram/.</p>
     </div>
     <div class="offer">
       <h3>Premium – 449 zł / miesiąc</h3>
-      <p>Pełne wsparcie 1:1, regularne rozmowy wideo, dieta, analiza stylu życia, codzienny kontakt i indywidualna opieka.</p>
+      <p>Pełne wsparcie 1:1, regularne rozmowy i kontrola techniki, dieta, analiza stylu życia, codzienny kontakt oraz indywidualna opieka.</p>
     </div>
     <div class="cta">
       <p>Masz pytania? Napisz do mnie na IG: <strong>@milobek11</strong></p>
