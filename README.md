@@ -64,6 +64,10 @@
     <h1>Trener online ale efekty już stacjonarne</h1>
     <p>Prosty plan + Prosta dieta = Świetne efekty</p>
   </header>
+  
+  <header>
+<img src="https://github.com/meewoshek/Sieeema/blob/197d4f957835c9dced3bad5e9c43c87e89fbb85d/IMG_4905.HEIC" alt="Header Image">
+</header>
 
   <section>
     <h2>Kim jestem?</h2>
