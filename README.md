@@ -61,13 +61,13 @@
 </head>
 <body>
   <header>
-    <h1>Zacznij trenować bez spiny</h1>
+    <h1>Trener online ale efekty już stacjonarne</h1>
     <p>Prosty plan + Prosta dieta = Świetne efekty</p>
   </header>
 
   <section>
     <h2>Kim jestem?</h2>
-    <p>Cześć! Nazywam się Miłosz, jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcia do kolejnego i kolejnego, i kolejnego treningu. Pomagam ludziom ogarnąć swoje ciało i zdrowie – bez presji, stresu i magicznych diet. Wszystko w Twoim tempie. Sprawdź sam i przekonaj się na własnym ciele.</p>
+    <p>Cześć! Nazywam się Miłosz, jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomagam ludziom ogarnąć swoje ciało i zdrowie – bez presji, stresu i magicznych diet. Wszystko w Twoim tempie. Sprawdź sam i przekonaj się na własnym ciele.</p>
   </section>
 
   <section>
@@ -82,7 +82,7 @@
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
     <div class="cta">
-      <p>Chcesz plan? Napisz do mnie na IG: <strong>@milobek11</strong></p>
+      <p>Napisz do mnie na IG: <strong>@milobek11</strong></p>
       <a href="https://www.instagram.com/milobek11" target="_blank">Zgarnij plan!</a>
     </div>
   </section>
@@ -110,11 +110,11 @@
   <section>
     <h2>🔥 Miesięczne wyzwania</h2>
     <p>Chcesz dodatkową motywację w postaci wyzwań? Już ja coś dla Ciebie znajdę!  
-    Zapisz się na IG: <strong>@twojnick</strong></p>
+    Zapisz się na IG: <strong>@milobek11</strong></p>
   </section>
 
   <footer>
-    <p>&copy; 2025 Miłosz Bembenek | Trening online ale efekty już stacjonarne</p>
+    <p>&copy; 2025 Miłosz Bembenek | Jeśli dotrwałeś/aś do tego momentu to napisz do mnie na instagramie i pochwal się swoim maxem na klatę 😁 </p>
   </footer>
 </body>
 </html>
