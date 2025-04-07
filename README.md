@@ -95,7 +95,7 @@
     </div>
     <div class="offer">
       <h3>Standard – 299 zł / miesiąc</h3>
-      <p>Indywidualny plan treningowy, analiza techniki, dieta, stały kontakt przez messegner/instagram/.</p>
+      <p>Indywidualny plan treningowy, analiza techniki, dieta, stały kontakt przez messenger/instagram.</p>
     </div>
     <div class="offer">
       <h3>Premium – 449 zł / miesiąc</h3>
