@@ -62,7 +62,7 @@
 <body>
   <header>
     <h1>Trener online ale efekty już stacjonarne</h1>
-    <p>Prosty plan + Prosta dieta = Świetne efekty</p>
+    <p>Pamiętaj, że efekty są takie, jak Twoja praca</p>
   </header>
 
   <section>
