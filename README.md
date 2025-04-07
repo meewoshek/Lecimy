@@ -27,7 +27,7 @@
       color: #1e1e2f;
     }
     .offer {
-      background: blue;
+      background: white;
       border-radius: 10px;
       padding: 1rem;
       margin: 1rem 0;
