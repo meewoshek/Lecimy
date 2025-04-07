@@ -77,8 +77,7 @@
       <p>Dla osób, które dopiero zaczynają. Otrzymasz:</p>
       <ul>
         <li>Plan FBW 3x w tygodniu</li>
-        <li>Mini-poradnik żywieniowy bez liczenia kalorii</li>
-        <li>Checklistę do śledzenia postępów</li>
+        <li>Mini-poradnik żywieniowy</li>
       </ul>
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
