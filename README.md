@@ -76,8 +76,9 @@
     <div class="offer">
       <p>Dla osób, które dopiero zaczynają. Otrzymasz:</p>
       <ul>
-        <li>Plan FBW 3x w tygodniu</li>
         <li>Mini-poradnik żywieniowy</li>
+        <li>Plan FBW 2x w tygodniu</li>
+        <li>Plan FBW 3x w tygodniu</li>
       </ul>
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
