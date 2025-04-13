@@ -73,7 +73,7 @@
   <section>
     <h2>Darmowy plan startowy</h2>
     <div class="offer">
-      <p>Dla osób, które <strong>dopiero zaczynają.</strong>strong> Otrzymasz:</p>
+      <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
       <ul>
         <li>Mini-poradnik żywieniowy</li>
         <li>Plan FBW 2x w tygodniu</li>
