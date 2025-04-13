@@ -89,10 +89,10 @@
   </section>
 
   <section>
-    <h2>Indywidualne prowadzenie online</h2>
+    <h2>Prowadzenie online - wybierz coś dla siebie!</h2>
     <div class="offer">
       <h3>Starter – 129 zł</h3>
-      <p>Dopasowany plan treningowy + wsparcie online. Idealne na początek.</p>
+      <p>Indywidualny plan treningowy + wsparcie online. Idealne na początek.</p>
     </div>
     <div class="offer">
       <h3>Standard – 299 zł / miesiąc</h3>
@@ -117,5 +117,4 @@
   <footer>
     <p>&copy; 2025 Miłosz Bembenek | Jeśli dotrwałeś/aś do tego momentu to napisz do mnie na instagramie i pochwal się swoim maxem na klatę 😁 </p>
   </footer>
-</body>
-</html>
+
