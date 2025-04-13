@@ -111,7 +111,7 @@
   <section>
     <h2>🔥 Miesięczne wyzwania</h2>
     <p>Chcesz dodatkową motywację w postaci wyzwań? Już ja coś dla Ciebie znajdę!  
-    Zapisz się na IG: <strong>@milosz.trenuje</strong></p>
+    Napisz do mnie na instagramie: <strong>@milosz.trenuje</strong></p>
   </section>
 
   <footer>
