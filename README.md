@@ -67,14 +67,14 @@
 
   <section>
     <h2>Kim jestem?</h2>
-    <p>Cześć! <p>
+    <p>Cześć!<p>
     <p>  Nazywam się Miłosz i jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – w prosty sposób i bez magicznych diet. Wszystko w Twoim tempie. Sprawdź sam i przekonaj się na własnym ciele.</p>
 
 
   <section>
     <h2>Darmowy plan startowy</h2>
     <div class="offer">
-      <p>Dla osób, które <strong>dopiero zaczynają.<strong> Otrzymasz:</p>
+      <p>Dla osób, które <strong>dopiero zaczynają.</strong>strong> Otrzymasz:</p>
       <ul>
         <li>Mini-poradnik żywieniowy</li>
         <li>Plan FBW 2x w tygodniu</li>
@@ -117,4 +117,5 @@
   <footer>
     <p>&copy; 2025 Miłosz Bembenek | Jeśli dotrwałeś/aś do tego momentu to napisz do mnie na instagramie i pochwal się swoim maxem na klatę 😁 </p>
   </footer>
-
+</body>
+</html>
