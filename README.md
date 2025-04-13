@@ -74,7 +74,7 @@
   <section>
     <h2>Darmowy plan startowy</h2>
     <div class="offer">
-      <p>Dla osób, które dopiero zaczynają. Otrzymasz:</p>
+      <p>Dla osób, które <strong>dopiero zaczynają.<strong> Otrzymasz:</p>
       <ul>
         <li>Mini-poradnik żywieniowy</li>
         <li>Plan FBW 2x w tygodniu</li>
@@ -83,8 +83,8 @@
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
     <div class="cta">
-      <p>Pamiętaj żeby zaobserwować profil! 😎 <strong>ig: @milosz.trenuje</strong></p>
       <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
+      <p>Pamiętaj, żeby zaobserwować profil! 😎 <strong>ig: @milosz.trenuje</strong></p>
     </div>
   </section>
 
