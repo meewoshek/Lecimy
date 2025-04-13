@@ -91,12 +91,12 @@
   <section>
     <h2>Indywidualne prowadzenie online</h2>
     <div class="offer">
-      <h3>Starter – 129 zł / miesiąc</h3>
-      <p>Gotowy plan treningowy + wsparcie mailowe. Idealny na początek.</p>
+      <h3>Starter – 129 zł</h3>
+      <p>Gotowy plan treningowy + wsparcie online. Idealne na początek.</p>
     </div>
     <div class="offer">
       <h3>Standard – 299 zł / miesiąc</h3>
-      <p>Indywidualny plan treningowy, analiza techniki, dieta, stały kontakt przez messenger/instagram.</p>
+      <p>Indywidualny plan treningowy, analiza techniki, dieta, stały kontakt.</p>
     </div>
     <div class="offer">
       <h3>Premium – 449 zł / miesiąc</h3>
