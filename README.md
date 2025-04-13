@@ -70,7 +70,6 @@
     <p>Cześć!<p>
     <p>  Nazywam się Miłosz i jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – w prosty sposób i bez magicznych diet. Wszystko w Twoim tempie. Sprawdź sam i przekonaj się na własnym ciele.</p>
 
-
   <section>
     <h2>Darmowy plan startowy</h2>
     <div class="offer">
@@ -110,12 +109,10 @@
 
   <section>
     <h2>🔥 Miesięczne wyzwania</h2>
-    <p>Chcesz dodatkową motywację w postaci wyzwań? Już ja coś dla Ciebie znajdę!  
+    <p><strong>Chcesz dodatkową motywację w postaci wyzwań? Już ja coś dla Ciebie znajdę!  
     Obiecuję, że efekty Cię zaskoczą!</strong></p>
   </section>
 
   <footer>
     <p>&copy; 2025 Miłosz Bembenek | Jeśli dotrwałeś/aś do tego momentu to napisz do mnie na instagramie i pochwal się swoim maxem na klatę 😁 </p>
   </footer>
-</body>
-</html>
