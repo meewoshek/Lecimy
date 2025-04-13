@@ -83,7 +83,7 @@
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
     <div class="cta">
-      <p>Pamiętaj żeby zaobserwować profil! 😎 <strong>ig: milosz.treneronline</strong></p>
+      <p>Pamiętaj żeby zaobserwować profil! 😎 <strong>ig: @milosz.trenuje</strong></p>
       <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
     </div>
   </section>
@@ -103,8 +103,8 @@
       <p>Pełne wsparcie 1:1, regularne rozmowy i kontrola techniki, dieta, analiza stylu życia, codzienny kontakt oraz indywidualna opieka.</p>
     </div>
     <div class="cta">
-      <p>Masz pytania? Napisz do mnie na IG: <strong>@milobek11</strong></p>
-      <a href="https://www.instagram.com/milobek11" target="_blank">Porozmawiajmy!</a>
+      <p>Masz pytania? Napisz do mnie na IG: <strong>@milosz.trenuje</strong></p>
+      <a href="https://www.instagram.com/milosz.trenuje" target="_blank">Porozmawiajmy!</a>
     </div>
   </section>
 
