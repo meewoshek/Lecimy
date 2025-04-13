@@ -82,7 +82,7 @@
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
     <div class="cta">
-      <h3> href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</h3>
+      <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
       <p>Pamiętaj, żeby zaobserwować profil! 😎 <strong>ig: @milosz.trenuje</strong></p>
     </div>
   </section>
