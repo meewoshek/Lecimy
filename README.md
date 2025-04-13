@@ -68,7 +68,7 @@
   <section>
     <h2>Kim jestem?</h2>
     <p>Cześć! <p>
-    <p>Nazywam się Miłosz, jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – w prosty sposób i bez magicznych diet. Wszystko w Twoim tempie. Sprawdź sam i przekonaj się na własnym ciele.</p>
+    <p>  Nazywam się Miłosz i jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – w prosty sposób i bez magicznych diet. Wszystko w Twoim tempie. Sprawdź sam i przekonaj się na własnym ciele.</p>
 
 
   <section>
@@ -83,8 +83,8 @@
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
     <div class="cta">
-      <p>Pamiętaj żeby zaobserwować profil! 😎 <strong>@milobek11</strong></p>
-      <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij we mnie</a>
+      <p>Pamiętaj żeby zaobserwować profil! 😎 <strong>ig: milosz.treneronline</strong></p>
+      <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
     </div>
   </section>
 
