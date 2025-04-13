@@ -84,7 +84,7 @@
     </div>
     <div class="cta">
       <p>Pamiętaj żeby zaobserwować profil! 😎 <strong>@milobek11</strong></p>
-      <a href="linktr.ee/meewoshek" target="_blank">Zgarnij plan!</a>
+      <a href="https://linktr.ee/meewoshek" target="_blank">Zgarnij plan!</a>
     </div>
   </section>
 
