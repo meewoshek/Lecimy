@@ -62,7 +62,7 @@
 <body>
   <header>
     <h1>Trener online ale efekty już stacjonarne</h1>
-    <p>Pamiętaj, że efekty są takie, jak Twoja praca</p>
+    <p>Pamiętaj, że efekty są takie, jak ciężko na nie pracowałeś/aś!</p>
   </header>
 
   <section>
