@@ -92,7 +92,7 @@
     <h2>Indywidualne prowadzenie online</h2>
     <div class="offer">
       <h3>Starter – 129 zł</h3>
-      <p>Gotowy plan treningowy + wsparcie online. Idealne na początek.</p>
+      <p>Dopasowany plan treningowy + wsparcie online. Idealne na początek.</p>
     </div>
     <div class="offer">
       <h3>Standard – 299 zł / miesiąc</h3>
@@ -104,7 +104,7 @@
     </div>
     <div class="cta">
       <p>Masz pytania? Napisz do mnie na IG: <strong>@milosz.trenuje</strong></p>
-      <a href="https://www.instagram.com/milosz.trenuje" target="_blank">Porozmawiajmy!</a>
+      <a href="https://www.instagram.com/milosz.trenuje" target="_blank">Pogadajmy!</a>
     </div>
   </section>
 
