@@ -111,7 +111,7 @@
   <section>
     <h2>🔥 Miesięczne wyzwania</h2>
     <p>Chcesz dodatkową motywację w postaci wyzwań? Już ja coś dla Ciebie znajdę!  
-    Napisz do mnie, <strong>a znajdziemy coś dla Ciebie!</strong></p>
+    Obiecuję, że efekty Cię zaskoczą!</strong></p>
   </section>
 
   <footer>
