@@ -139,9 +139,11 @@
   </section>
 
   <section>
+    <div class="cta centered">
     <h2>🔥 Miesięczne wyzwania</h2>
     <p><strong>Chcesz dodatkową motywację w postaci wyzwań? Już ja coś dla Ciebie znajdę!  
     Obiecuję, że efekty Cię zaskoczą!</strong></p>
+      </div>
   </section>
 
   <footer>
