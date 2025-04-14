@@ -81,9 +81,6 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  justify-content: center;
-min-height: 100vh;
-  
 }
   </style>
 </head>
