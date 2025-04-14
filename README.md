@@ -76,6 +76,12 @@
   flex: 1;
   min-width: 250px;
 }
+.centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
   </style>
 </head>
 <body>
@@ -93,9 +99,9 @@
     <p>  Mam na imię Miłosz i jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – w prosty sposób i bez magicznych diet. Proste, że jasne. Sprawdź sam i przekonaj się na własnym ciele.</p>
  </div>
   </div>
-  <section>
+   <section class="centered">
     <h2>Darmowy plan startowy</h2>
-    <div class="offer">
+    <div class="offer centered">
       <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
       <ul>
         <li>Mini-poradnik żywieniowy</li>
@@ -104,7 +110,7 @@
       </ul>
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
-    <div class="cta">
+     <div class="cta centered">
       <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
       <p>Pamiętaj, żeby zaobserwować profil! 😎 <strong>ig: @milosz.trenuje</strong></p>
     </div>
