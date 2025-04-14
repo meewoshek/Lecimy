@@ -145,7 +145,7 @@
       <img src="IMG_4905.jpg" alt="Miłosz Bembenek – trener">
       <div class="about-text">
         <p>Cześć!</p>
-        <p>Mam na imię Miłosz i jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego,i&nbsp; kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – &nbsp;w&nbsp; prosty sposób i bez magicznych diet. Proste, że jasne. Sprawdź sam &nbsp;i&nbsp; przekonaj się na własnym ciele.</p>
+        <p>Mam na imię Miłosz i jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego,i kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – w prosty sposób i bez magicznych diet. Proste, że jasne. Sprawdź sam i przekonaj się na własnym ciele.</p>
       </div>
     </div>
   </section>
@@ -199,5 +199,21 @@
   <footer>
     <p>&copy; 2025 Miłosz Bembenek | Jeśli dotrwałeś/aś do tego momentu to napisz do mnie na instagramie i pochwal się swoim maxem na klatę 😁 </p>
   </footer>
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const selectors = ['p', 'li', '.about-text', '.cta'];
+    selectors.forEach(selector => {
+      document.querySelectorAll(selector).forEach(el => {
+        el.innerHTML = el.innerHTML
+          // spacja + pojedyncza litera + spacja
+          .replace(/ (\w{1}) /g, ' $1&nbsp;')
+          // spacja + pojedyncza litera + przecinek/kropka
+          .replace(/ (\w{1})([,.])/g, ' $1$2')
+          // spacja + pojedyncza litera na końcu
+          .replace(/ (\w{1})<\/(p|li)>/g, ' $1</$2>');
+      });
+    });
+  });
+</script>
 </body>
 </html>
