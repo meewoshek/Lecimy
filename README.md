@@ -67,7 +67,9 @@
 
   <section>
     <h2>Kim jestem?</h2>
+    div class="about">
     <img src="Zrzut ekranu 2025-03-26 200026.png" alt="Miłosz Bembenek – trener" style="max-width: 100%; border-radius: 12px; margin-top: 1rem; margin-bottom: 1rem;">
+    <div class="about-text">
     <p>Cześć!<p>
     <p>  Mam na imię Miłosz i jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – w prosty sposób i bez magicznych diet. Proste, że jasne. Sprawdź sam i przekonaj się na własnym ciele.</p>
 
