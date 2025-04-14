@@ -28,7 +28,7 @@
     }
     .offer {
       background: white;
-      border-radius: 2px;
+      border-radius: 10px;
       padding: 1rem;
       margin: 1rem 0;
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
@@ -77,6 +77,8 @@
   min-width: 250px;
 }
 .centered {
+ width: 800px;
+  height: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
