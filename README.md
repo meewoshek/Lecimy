@@ -84,7 +84,7 @@
 
   <section>
     <h2>Kim jestem?</h2>
-    div class="about">
+    <div class="about">
     <img src="Zrzut ekranu 2025-03-26 200026.png" alt="Miłosz Bembenek – trener" style="max-width: 100%; border-radius: 12px; margin-top: 1rem; margin-bottom: 1rem;">
     <div class="about-text">
     <p>Cześć!<p>
