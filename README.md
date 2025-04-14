@@ -28,7 +28,7 @@
     }
     .offer {
       background: white;
-      border-radius: 10px;
+      border-radius: 2px;
       padding: 1rem;
       margin: 1rem 0;
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
@@ -99,7 +99,7 @@
     <p>  Mam na imię Miłosz i jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – w prosty sposób i bez magicznych diet. Proste, że jasne. Sprawdź sam i przekonaj się na własnym ciele.</p>
  </div>
   </div>
-   <section class="centered">
+   <section>
     <h2>Darmowy plan startowy</h2>
     <div class="offer centered">
       <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
