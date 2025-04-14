@@ -120,19 +120,19 @@
 
   <section>
     <h2>Prowadzenie online - wybierz coś dla siebie!</h2>
-    <div class="offer">
+    <div class="offer centered">
       <h3>Starter – 129 zł</h3>
       <p>Indywidualny plan treningowy + wsparcie online. Idealne na początek.</p>
     </div>
-    <div class="offer">
+    <div class="offer centered">
       <h3>Standard – 299 zł / miesiąc</h3>
       <p>Indywidualny plan treningowy, analiza techniki, dieta, stały kontakt.</p>
     </div>
-    <div class="offer">
+    <div class="offer centered">
       <h3>Premium – 449 zł / miesiąc</h3>
       <p>Pełne wsparcie 1:1, regularne rozmowy i kontrola techniki, dieta, analiza stylu życia, codzienny kontakt oraz indywidualna opieka.</p>
     </div>
-    <div class="cta">
+    <div class="cta centered">
       <p>Masz pytania? Napisz do mnie na IG: <strong>@milosz.trenuje</strong></p>
       <a href="https://www.instagram.com/milosz.trenuje" target="_blank">Pogadajmy!</a>
     </div>
