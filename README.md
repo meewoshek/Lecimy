@@ -191,7 +191,7 @@
 
   <!-- Sekcja Miesięczne wyzwania -->
   <section class="challenge-section">
-    <h2>🔥 Miesięczne wyzwania</h2>
+    <h2>🔥 Miesięczne wyzwania 🔥</h2>
     <p><strong>Chcesz dodatkową motywację w postaci wyzwań? Już ja coś dla Ciebie znajdę!  
     Obiecuję, że efekty Cię zaskoczą!</strong></p>
   </section>
