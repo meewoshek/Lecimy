@@ -73,6 +73,7 @@
     .about-text {
       flex: 1;
       min-width: 250px;
+      text-align: justify;
     }
     /* Nowe style dla oddzielonych sekcji */
     .start-plan-section {
