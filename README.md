@@ -85,57 +85,71 @@
   </header>
 
   <section>
-    <h2>Kim jestem?</h2>
-    <div class="about">
+  <h2>Kim jestem?</h2>
+  <div class="about">
     <img src="Zrzut ekranu 2025-03-26 200026.png" alt="Miłosz Bembenek – trener">
     <div class="about-text">
-    <p>Cześć!<p>
-    <p>  Mam na imię Miłosz i jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – w prosty sposób i bez magicznych diet. Proste, że jasne. Sprawdź sam i przekonaj się na własnym ciele.</p>
- </div>
-  </div>
-  <section>
-    <h2>Darmowy plan startowy</h2>
-    <div class="offer">
-      <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
+      <p>Cześć!</p>
+      <p>Mam na imię Miłosz i jestem certyfikowanym trenerem personalnym, piłkarzem oraz zawodnikiem sportów walki, który niestety ale zarazi Cię pozytywnym nastawieniem i chęcią do kolejnego i kolejnego, i kolejnego treningu. Pomogę Ci ogarnąć swoje ciało i zdrowie – w prosty sposób i bez magicznych diet. Proste, że jasne. Sprawdź sam i przekonaj się na własnym ciele.</p>
+    </div>
+    <!-- Blok z darmowym planem -->
+    <div class="free-plan">
+      <h3>Darmowy plan startowy</h3>
+      <p>Dla osób, które dopiero zaczynają. Otrzymasz:</p>
       <ul>
-        <li>Mini-poradnik żywieniowy</li>
+        <li>Mini-poradnik żyjeniowy</li>
         <li>Plan FBW 2x w tygodniu</li>
         <li>Plan FBW 3x w tygodniu</li>
       </ul>
-      <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
+      <p><strong>0 zł – kliknij poniżej i odbierz plan!</strong></p>
+      <a href="#" class="btn">Kliknij tutaj</a>
+      <p>Pamiętaj, żeby zaobserwować profil! 😎 <br> ig: @milosz.trenuje</p>
     </div>
-    <div class="cta">
-      <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
-      <p>Pamiętaj, żeby zaobserwować profil! 😎 <strong>ig: @milosz.trenuje</strong></p>
-    </div>
-  </section>
 
-  <section>
-    <h2>Prowadzenie online - wybierz coś dla siebie!</h2>
-    <div class="offer">
-      <h3>Starter – 129 zł</h3>
-      <p>Indywidualny plan treningowy + wsparcie online. Idealne na początek.</p>
-    </div>
-    <div class="offer">
-      <h3>Standard – 299 zł / miesiąc</h3>
-      <p>Indywidualny plan treningowy, analiza techniki, dieta, stały kontakt.</p>
-    </div>
-    <div class="offer">
-      <h3>Premium – 449 zł / miesiąc</h3>
-      <p>Pełne wsparcie 1:1, regularne rozmowy i kontrola techniki, dieta, analiza stylu życia, codzienny kontakt oraz indywidualna opieka.</p>
-    </div>
-    <div class="cta">
-      <p>Masz pytania? Napisz do mnie na IG: <strong>@milosz.trenuje</strong></p>
-      <a href="https://www.instagram.com/milosz.trenuje" target="_blank">Pogadajmy!</a>
-    </div>
-  </section>
+  </div>
+</section>
 
-  <section>
-    <h2>🔥 Miesięczne wyzwania</h2>
-    <p><strong>Chcesz dodatkową motywację w postaci wyzwań? Już ja coś dla Ciebie znajdę!  
-    Obiecuję, że efekty Cię zaskoczą!</strong></p>
-  </section>
+<style>
+.about {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
 
-  <footer>
-    <p>&copy; 2025 Miłosz Bembenek | Jeśli dotrwałeś/aś do tego momentu to napisz do mnie na instagramie i pochwal się swoim maxem na klatę 😁 </p>
-  </footer>
+.about img {
+  max-width: 300px;
+  height: auto;
+  border-radius: 12px;
+}
+
+.about-text {
+  flex: 1;
+  min-width: 250px;
+}
+
+.free-plan {
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.free-plan h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.free-plan ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #000;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+</style>
