@@ -57,6 +57,23 @@
       font-size: 0.9rem;
       color: #777;
     }
+    .about {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.about img {
+  width: 200px;
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.about-text {
+  flex: 1;
+  min-width: 250px;
+}
   </style>
 </head>
 <body>
