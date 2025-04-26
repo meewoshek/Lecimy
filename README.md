@@ -136,7 +136,7 @@
 <body>
   <header>
     <h1>Trener online ale efekty już stacjonarne</h1>
-    <p>Pamiętaj, że Twoje wyniki takie, jak ciężko na nie zapracowałeś/aś!</p>
+    <p>Pamiętaj, że Twoje wyniki są takie, jak ciężko na nie zapracowałeś/aś!</p>
   </header>
 
   <section>
@@ -164,7 +164,7 @@
     </div>
     <div class="cta centered">
       <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
-      <p>Pamiętaj, żeby zaobserwować profil! 😎 <strong>ig: @milosz.trenuje</strong></p>
+      <p><strong>Potrzebujesz bardziej dopasowanej pomocy? Sprawdź poniżej! 💪</strong></p>
     </div>
   </section>
 
