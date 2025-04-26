@@ -140,7 +140,7 @@
         text-align: center;
       }
       .about-text {
-        text-align: center;
+        text-align: justify;
       }
     }
   </style>
