@@ -124,13 +124,15 @@
       margin-top: 2rem;
     }
     .centered {
-      width: 800px;
-      height: auto;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
+  max-width: 800px;
+  width: 100%;
+  padding: 1rem;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
   </style>
 </head>
 <body>
