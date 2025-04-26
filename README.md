@@ -181,7 +181,7 @@
     </div>
     <div class="offer centered">
       <h3>Premium – 449 zł / miesiąc</h3>
-      <p>Pełne wsparcie 1:1, kontrola techniki, diety, analiza stylu życia, codzienny kontakt oraz indywidualna opieka.</p>
+      <p>Pełne wsparcie 1:1, kontrola techniki, progresji, diety, analiza stylu życia, codzienny kontakt oraz indywidualna opieka.</p>
     </div>
     <div class="cta centered">
       <p>Masz pytania? Napisz do mnie na IG: <strong>@milosz.trenuje</strong></p>
