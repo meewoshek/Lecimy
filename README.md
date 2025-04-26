@@ -64,7 +64,6 @@
       flex-wrap: wrap;
       margin-top: 1rem;
     }
-    @media (max-width: 768px) {
     .about img {
       width: 200px;
       height: auto;
@@ -75,7 +74,6 @@
       flex: 1;
       min-width: 250px;
       text-align: justify;
-      }
     }
     /* Nowe style dla oddzielonych sekcji */
     .start-plan-section {
@@ -135,6 +133,16 @@
   align-items: center;
   text-align: center;
 }
+     @media (max-width: 768px) {
+      .about {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+      .about-text {
+        text-align: center;
+      }
+    }
   </style>
 </head>
 <body>
