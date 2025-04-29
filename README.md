@@ -157,7 +157,12 @@
      <div class="about">
        <img src="IMG_4905.jpg" alt="Miłosz Bembenek – trener">
        <div class="about-text">
-         <p>Dalej liczysz, że forma zrobi się sama?</p>
+         <p>Przychodzisz na siłownię bez konkretnego planu i liczysz, że forma jakoś sama się zrobi?</p>
+        <p>Sorry, ale grubo się mylisz</p>
+         <p>Jestem Miłosz – gość, który pomoże Ci w końcu ogarnąć Twoją formę i pewność siebie, bez zbędnego pieprzenia.</p>
+       <p> Współpracuję z facetami w wieku 20–40 lat, którzy mimo ciężkich treningów nadal mają problem ze zrobieniem formy.</p>
+        <p>Co zyskujesz? Konkretny plan, proste i smaczne jedzenie i co najważniejsze - EFEKTY.</p>
+        <p>I mam dla Ciebie gwarancję: Daj mi 30 dni i działaj zgodnie z moimi wytycznymi, a daję słowo, że będziesz zadowolony swoimi efektami. Jeśli tak się nie stanie - zwracam Ci 100% ceny. Chyba uczciwy deal. To co, działamy?</p>
        </div>
      </div>
    </section>
