@@ -183,17 +183,17 @@
  
    <!-- Sekcja Prowadzenie online -->
    <section class="pricing-section">
-     <h2>Prowadzenie online - wybierz coś dla siebie!</h2>
+     <h2>Wybierz coś dla siebie!</h2>
      <div class="offer centered">
-       <h3>Starter – 129 zł</h3>
+       <h3>Pakiet ROZGRZEWKA – 129 zł</h3>
        <p>Indywidualny plan treningowy + wsparcie online. Idealne na początek.</p>
      </div>
      <div class="offer centered">
-       <h3>Standard – 299 zł / miesiąc</h3>
+       <h3>pakiet PRZEMIANA – 299 zł / miesiąc</h3>
        <p>Indywidualny plan treningowy, analiza Twojej diety i kontrola postępów w treningach, stały kontakt.</p>
      </div>
      <div class="offer centered">
-       <h3>Premium – 449 zł / miesiąc</h3>
+       <h3>Pakiet BESTIA – 449 zł / miesiąc</h3>
        <p>Pełne wsparcie 1:1, kontrola techniki, progresji, diety, analiza stylu życia, codzienny kontakt oraz indywidualna opieka.</p>
      </div>
      <div class="cta centered">
