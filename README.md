@@ -153,7 +153,7 @@
    </header>
  
    <section>
-     <h2>Co zyskasz na współpracy ze mną?</h2>
+     <h2>Co zyskasz współpracując ze mną?</h2>
      <div class="about">
        <img src="IMG_4905.jpg" alt="Miłosz Bembenek – trener">
        <div class="about-text">
