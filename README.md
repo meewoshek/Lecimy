@@ -158,10 +158,10 @@
       <div class="about-text">
         <p>Dalej liczysz, że <strong>forma zrobi się sama?</strong> Sorry, ale grubo się mylisz. 
         <p>Jestem Miłosz – gość, który pomoże Ci w końcu ogarnąć Twoją formę i pewność siebie, <strong>bez zbędnego pieprzenia.</strong><p>
-        <p>Współpracuję z facetami w wieku <strong>0–40 lat</strong>, którzy mimo ciężkich treningów nadal mają <strong>problem ze zrobieniem formy.</strong><p>
-        <p>Co zyskujesz? Konkretny plan, proste i smaczne jedzenie i co najważniejsze -<strong>EFEKTY.</strong> <p>
-<strong>I mam dla Ciebie gwarancję:</strong>
-Daj mi 30 dni i działaj zgodnie z moimi wytycznymi, a daję słowo, że będziesz zadowolony ze swoich efektów.
+        <p>Współpracuję z facetami w wieku <strong>20–40 lat</strong>, którzy mimo ciężkich treningów nadal mają <strong>problem ze zrobieniem formy.</strong><p>
+        <p>Co zyskujesz? Konkretny plan, proste i smaczne jedzenie i co najważniejsze - <strong>EFEKTY.</strong> <p>
+I mam dla Ciebie <strong>gwarancję:</strong>
+Daj mi <strong>30 dni</strong> i działaj zgodnie z moimi wytycznymi, a <strong>daję słowo,</strong> że będziesz zadowolony swoimi efektami.
 Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciwy deal. <strong>To co, działamy?</strong></p>
 
   <!-- Sekcja Darmowy Plan Startowy -->
