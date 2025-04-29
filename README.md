@@ -164,9 +164,7 @@
 I mam dla Ciebie <strong>gwarancję:</strong>
 Daj mi <strong>30 dni</strong> i działaj zgodnie z moimi wytycznymi, a <strong>daję słowo,</strong> że będziesz zadowolony swoimi efektami.
 Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciwy deal. <strong>To co, działamy?</strong></p>
-      </div>
-    </div>
-    </section>
+  
   <!-- Sekcja Darmowy Plan Startowy -->
   <section class="start-plan-section centered">
   <h2>Darmowy plan startowy</h2>
