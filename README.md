@@ -152,21 +152,17 @@
   </header>
 
   <section>
-    <h2>Kim jestem?</h2>
+    <h2>Ej, Ty!</h2>
     <div class="about">
       <img src="IMG_4905.jpg" alt="Miłosz Bembenek – trener">
       <div class="about-text">
-        <p>Ej, Ty!</p>
-        <p>Dalej liczysz, że <strong>forma zrobi się sama?</strong>strong> Sorry, ale grubo się mylisz. 
+        <p>Dalej liczysz, że <strong>forma zrobi się sama?</strong> Sorry, ale grubo się mylisz. 
         <p>Jestem Miłosz – gość, który pomoże Ci w końcu ogarnąć Twoją formę i pewność siebie, bez zbędnego pieprzenia.<p>
         <p>Współpracuję z facetami w wieku 20–40 lat, którzy mimo ciężkich treningów nadal mają problem ze zrobieniem formy.<p>
         <p>Co zyskujesz? Konkretny plan, proste i smaczne jedzenie i co najważniejsze - EFEKTY. <p>
 <strong>I mam dla Ciebie gwarancję:</strong>
 Daj mi 30 dni i działaj zgodnie z moimi wytycznymi, a daję słowo, że będziesz zadowolony ze swoich efektów.
 Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciwy deal. <strong>To co, działamy?</strong></p>
-      </div>
-    </div>
-  </section>
 
   <!-- Sekcja Darmowy Plan Startowy -->
   <section class="start-plan-section">
