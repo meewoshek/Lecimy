@@ -80,7 +80,7 @@
       background-color: #f1f1f1; /* Inne tło dla tej sekcji */
       margin-top: 2rem; /* Przestrzeń nad sekcją */
       padding: 2rem;
-      text-align: left;
+      text-align: center;
     }
     .offer {
       background: #fff;
