@@ -165,8 +165,8 @@ I mam dla Ciebie <strong>gwarancję:</strong>
 Daj mi <strong>30 dni</strong> i działaj zgodnie z moimi wytycznymi, a <strong>daję słowo,</strong> że będziesz zadowolony swoimi efektami.
 Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciwy deal. <strong>To co, działamy?</strong></p>
   
-  <!-- Sekcja Darmowy Plan Startowy -->
-  <section class="start-plan-section">
+ <!-- Sekcja Darmowy Plan Startowy -->
+<section class="start-plan-section">
   <h2>Darmowy plan startowy</h2>
   <div class="offer">
       <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
@@ -177,11 +177,11 @@ Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciw
       </ul>
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
-    <div class="cta centered">
+    <div class="cta">
       <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
       <p><strong>Potrzebujesz bardziej dopasowanej pomocy? Sprawdź poniżej! 💪</strong></p>
-</div>
-    </section>
+    </div>
+</section>
   <!-- Sekcja Prowadzenie online -->
   <section class="pricing-section">
     <h2>Wybierz pakiet dla siebie!</h2>
