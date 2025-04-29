@@ -76,17 +76,15 @@
       text-align: justify;
     }
     /* Nowe style dla oddzielonych sekcji */
-    .start-plan-section {
+.start-plan-section {
+  width: 100%; /* Rozciągnięcie na całą szerokość strony */
+  max-width: 100vw; /* Nie pozwala na przekroczenie szerokości strony */
   background-color: #f1f1f1;
   padding: 2rem;
-  width: 100vw; /* Pełna szerokość strony */
-  box-sizing: border-box; /* Upewnia się, że padding nie zmienia rozmiaru elementu */
   text-align: center;
-  position: relative;
-  left: 0;
-  margin-top: 0; /* Ustawienie marginesu górnego na 0 */
+  box-sizing: border-box; /* Zapewnia, że padding nie zmienia rozmiaru sekcji */
+  margin: 0; /* Usunięcie marginesu, by sekcja zaczynała się od lewej */
 }
-
 .offer {
   background: #fff;
   border-radius: 10px;
@@ -94,7 +92,6 @@
   margin: 1rem 0;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
-
 .cta {
   background: #1e1e2f;
   color: white;
@@ -103,7 +100,6 @@
   text-align: center;
   margin-top: 2rem;
 }
-
 .cta a {
   color: #fff;
   text-decoration: none;
