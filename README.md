@@ -75,15 +75,18 @@
       min-width: 250px;
       text-align: justify;
     }
-    .centered {
+
+    /* Tylko dla sekcji "Darmowy plan startowy" i poniżej */
+    .centered-content {
       display: flex;
       justify-content: center;
       align-items: center;
       flex-direction: column;
       padding: 2rem;
       text-align: center;
-      min-height: 100vh;
+      margin-top: 2rem;
     }
+
     .start-plan-section {
       width: 100%;
       max-width: 100vw;
@@ -92,18 +95,21 @@
       box-sizing: border-box;
       margin: 0;
     }
+
     .pricing-section {
       background-color: #ffffff;
       padding: 2rem;
       margin-top: 2rem;
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     }
+
     .challenge-section {
       background-color: #ffe6e6;
       padding: 2rem;
       text-align: center;
       margin-top: 2rem;
     }
+
     @media (max-width: 768px) {
       .about {
         flex-direction: column;
@@ -139,7 +145,7 @@
   </section>
 
   <!-- Sekcja Darmowy plan startowy -->
-  <section class="centered">
+  <section class="centered-content">
     <div class="start-plan-section">
       <h2>Darmowy plan startowy</h2>
       <div class="offer">
@@ -159,7 +165,7 @@
   </section>
 
   <!-- Sekcja Prowadzenie online -->
-  <section class="centered">
+  <section class="centered-content">
     <div class="pricing-section">
       <h2>Wybierz pakiet dla siebie!</h2>
       <div class="offer">
@@ -182,7 +188,7 @@
   </section>
 
   <!-- Sekcja Miesięczne wyzwania -->
-  <section class="centered">
+  <section class="centered-content">
     <div class="challenge-section">
       <h2>🔥 Miesięczne wyzwania 🔥</h2>
       <p><strong>Chcesz dodatkową motywację w postaci wyzwań? Już ja coś dla Ciebie znajdę!  
