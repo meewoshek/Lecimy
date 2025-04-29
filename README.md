@@ -182,6 +182,7 @@ Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciw
       <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
       <p><strong>Potrzebujesz bardziej dopasowanej pomocy? Sprawdź poniżej! 💪</strong></p>
 </div>
+    </div>
     </section>
   <!-- Sekcja Prowadzenie online -->
   <section class="pricing-section">
