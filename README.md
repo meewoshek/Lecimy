@@ -166,9 +166,9 @@ Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciw
       </div>
     </section>
   <!-- Sekcja Darmowy Plan Startowy -->
-  <section class="start-plan-section">
-    <h2>Darmowy plan startowy</h2>
-    <div class="offer centered">
+  <section class="start-plan-section centered">
+  <h2>Darmowy plan startowy</h2>
+  <div class="offer">
       <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
       <ul>
         <li>Mini-poradnik żywieniowy</li>
