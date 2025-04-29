@@ -167,7 +167,7 @@ Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciw
       </div>
     </section>
   <!-- Sekcja Darmowy Plan Startowy -->
-  <section class="start-plan-section centered">
+  <section class="start-plan-section">
   <h2>Darmowy plan startowy</h2>
   <div class="offer">
       <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
@@ -178,27 +178,26 @@ Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciw
       </ul>
       <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
     </div>
-    <div class="cta centered">
+    <div class="cta">
       <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
       <p><strong>Potrzebujesz bardziej dopasowanej pomocy? Sprawdź poniżej! 💪</strong></p>
-</div>
-    </section>
+  </section>
   <!-- Sekcja Prowadzenie online -->
   <section class="pricing-section">
     <h2>Wybierz pakiet dla siebie!</h2>
-    <div class="offer centered">
+    <div class="offer">
       <h3>Pakiet Rozgrzewka – 129 zł</h3>
       <p>Indywidualny plan treningowy + wsparcie online. Idealne na początek.</p>
     </div>
-    <div class="offer centered">
+    <div class="offer">
       <h3>Pakiet Przemiana – 299 zł / miesiąc</h3>
       <p>Indywidualny plan treningowy, analiza Twojej diety i kontrola postępów w treningach, stały kontakt.</p>
     </div>
-    <div class="offer centered">
+    <div class="offer">
       <h3>Pakiet Bestia – 449 zł / miesiąc</h3>
       <p>Pełne wsparcie 1:1, kontrola techniki, progresji, diety, analiza stylu życia, codzienny kontakt oraz indywidualna opieka.</p>
     </div>
-    <div class="cta centered">
+    <div class="cta">
       <p>Masz pytania? Napisz do mnie na IG: <strong>@milosz.trenuje</strong></p>
       <a href="https://www.instagram.com/milosz.trenuje" target="_blank">Pogadajmy!</a>
     </div>
@@ -209,7 +208,7 @@ Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciw
     <h2>🔥 Miesięczne wyzwania 🔥</h2>
     <p><strong>Chcesz dodatkową motywację w postaci wyzwań? Już ja coś dla Ciebie znajdę!  
     Obiecuję, że efekty Cię zaskoczą!</strong></p>
-  </section>
+</section>
 
   <footer>
     <p>&copy; 2025 Miłosz Bembenek | Jeśli dotrwałeś/aś do tego momentu to napisz do mnie na instagramie i pochwal się swoim maxem na klatę 😁 </p>
