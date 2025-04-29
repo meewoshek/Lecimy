@@ -153,14 +153,14 @@
    </header>
  
    <section>
-     <h2>Co zyskasz współpracując ze mną?</h2>
+     <h2>Dlaczego akurat ja?</h2>
      <div class="about">
        <img src="IMG_4905.jpg" alt="Miłosz Bembenek – trener">
        <div class="about-text">
          <p>Jestem Miłosz – gość, który pomoże Ci w końcu ogarnąć Twoją formę i pewność siebie, <strong>bez zbędnego pieprzenia.</strong></p>
        <p> Współpracuję z facetami w wieku <strong>20–40 lat</strong>, którzy mimo ciężkich treningów nadal mają problem ze zrobieniem formy.</p>
         <p>Co zyskujesz? <strong>Konkretny plan, proste i smaczne jedzenie i co najważniejsze - EFEKTY.</strong></p>
-        <p>I mam dla Ciebie <strong>gwarancję:</strong> Daj mi <strong>30 dni</strong> i działaj zgodnie z moimi wytycznymi, a <strong>daję słowo,</strong> że będziesz zadowolony swoimi efektami. Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciwy deal. To co, działamy?</p>
+        <p>I mam dla Ciebie <strong>gwarancję:</strong> Przez <strong>30 dni</strong> działaj zgodnie z moimi wytycznymi, a <strong>daję słowo,</strong> że będziesz zadowolony swoimi efektami. Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciwy deal. To co, działamy?</p>
        </div>
      </div>
    </section>
@@ -187,7 +187,7 @@
    <section class="pricing-section">
      <h2>Wybierz jeden z pakietów dla siebie!</h2>
      <div class="offer centered">
-       <h3>ROZGRZEWKA – 129 zł</h3>
+       <h3>ROZGRZEWKA – 129 zł / jednorazowo</h3>
        <p>Indywidualny plan treningowy + wsparcie online. Idealne na początek.</p>
      </div>
      <div class="offer centered">
