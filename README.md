@@ -153,12 +153,10 @@
    </header>
  
    <section>
-     <h2>Kim jestem?</h2>
+     <h2>Co zyskasz na współpracy ze mną?</h2>
      <div class="about">
        <img src="IMG_4905.jpg" alt="Miłosz Bembenek – trener">
        <div class="about-text">
-         <p>Przychodzisz na siłownię bez konkretnego planu i liczysz, że forma jakoś sama się zrobi?</p>
-        <p>Sorry, ale <strong>GRUBO SIĘ MYLISZ</strong></p>
          <p>Jestem Miłosz – gość, który pomoże Ci w końcu ogarnąć Twoją formę i pewność siebie, <strong>bez zbędnego pieprzenia.</strong></p>
        <p> Współpracuję z facetami w wieku <strong>20–40 lat</strong>, którzy mimo ciężkich treningów nadal mają problem ze zrobieniem formy.</p>
         <p>Co zyskujesz? <strong>Konkretny plan, proste i smaczne jedzenie i co najważniejsze - EFEKTY.</strong></p>
