@@ -77,36 +77,43 @@
     }
     /* Nowe style dla oddzielonych sekcji */
     .start-plan-section {
-      background-color: #f1f1f1; /* Inne tło dla tej sekcji */
-      margin-top: 2rem; /* Przestrzeń nad sekcją */
-      padding: 2rem;
-      text-align: center;
-    }
-    .offer {
-      background: #fff;
-      border-radius: 10px;
-      padding: 1rem;
-      margin: 1rem 0;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-    .cta {
-      background: #1e1e2f;
-      color: white;
-      padding: 1rem;
-      border-radius: 8px;
-      text-align: center;
-      margin-top: 2rem;
-    }
-    .cta a {
-      color: #fff;
-      text-decoration: none;
-      font-weight: bold;
-      background: #ff6b6b;
-      padding: 0.5rem 1rem;
-      border-radius: 6px;
-      display: inline-block;
-      margin-top: 1rem;
-    }
+  background-color: #f1f1f1;
+  padding: 2rem;
+  width: 100vw; /* Pełna szerokość strony */
+  box-sizing: border-box; /* Upewnia się, że padding nie zmienia rozmiaru elementu */
+  text-align: center;
+  position: relative;
+  left: 0;
+  margin-top: 0; /* Ustawienie marginesu górnego na 0 */
+}
+
+.offer {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cta {
+  background: #1e1e2f;
+  color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.cta a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  background: #ff6b6b;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  display: inline-block;
+  margin-top: 1rem;
+}
     /* Sekcja z ofertami (Standard, Premium) */
     .pricing-section {
       background-color: #ffffff;
@@ -169,18 +176,18 @@ Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciw
 <section class="start-plan-section">
   <h2>Darmowy plan startowy</h2>
   <div class="offer">
-      <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
-      <ul>
-        <li>Mini-poradnik żywieniowy</li>
-        <li>Plan FBW 2x w tygodniu</li>
-        <li>Plan FBW 3x w tygodniu</li>
-      </ul>
-      <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
-    </div>
-    <div class="cta">
-      <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
-      <p><strong>Potrzebujesz bardziej dopasowanej pomocy? Sprawdź poniżej! 💪</strong></p>
-    </div>
+    <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
+    <ul>
+      <li>Mini-poradnik żywieniowy</li>
+      <li>Plan FBW 2x w tygodniu</li>
+      <li>Plan FBW 3x w tygodniu</li>
+    </ul>
+    <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
+  </div>
+  <div class="cta">
+    <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
+    <p><strong>Potrzebujesz bardziej dopasowanej pomocy? Sprawdź poniżej! 💪</strong></p>
+  </div>
 </section>
   <!-- Sekcja Prowadzenie online -->
   <section class="pricing-section">
