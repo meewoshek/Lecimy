@@ -183,7 +183,7 @@ Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciw
       <p><strong>Potrzebujesz bardziej dopasowanej pomocy? Sprawdź poniżej! 💪</strong></p>
 
   <!-- Sekcja Prowadzenie online -->
-  <section class="pricing-section">gdzie
+  <section class="pricing-section">
     <h2>Wybierz pakiet dla siebie!</h2>
     <div class="offer centered">
       <h3>Pakiet Rozgrzewka – 129 zł</h3>
