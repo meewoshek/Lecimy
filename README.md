@@ -4,6 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Trening Online z Ludzkim Podejściem</title>
   <style>
+    </head>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       margin: 0;
@@ -179,11 +180,9 @@ Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciw
     <div class="cta centered">
       <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
       <p><strong>Potrzebujesz bardziej dopasowanej pomocy? Sprawdź poniżej! 💪</strong></p>
-    </div>
-  </section>
 
   <!-- Sekcja Prowadzenie online -->
-  <section class="pricing-section">
+  <section class="pricing-section">gdzie
     <h2>Wybierz pakiet dla siebie!</h2>
     <div class="offer centered">
       <h3>Pakiet Rozgrzewka – 129 zł</h3>
