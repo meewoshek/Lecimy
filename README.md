@@ -166,7 +166,7 @@ Daj mi <strong>30 dni</strong> i działaj zgodnie z moimi wytycznymi, a <strong>
 Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciwy deal. <strong>To co, działamy?</strong></p>
   
   <!-- Sekcja Darmowy Plan Startowy -->
-  <section class="start-plan-section centered">
+  <section class="start-plan-section">
   <h2>Darmowy plan startowy</h2>
   <div class="offer">
       <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
