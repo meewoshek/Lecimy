@@ -170,23 +170,25 @@ Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciw
       </div>
     </div>
   </section>
- <!-- Sekcja Darmowy Plan Startowy -->
-<section class="start-plan-section">
-  <h2>Darmowy plan startowy</h2>
-  <div class="offer">
-    <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
-    <ul>
-      <li>Mini-poradnik żywieniowy</li>
-      <li>Plan FBW 2x w tygodniu</li>
-      <li>Plan FBW 3x w tygodniu</li>
-    </ul>
-    <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
-  </div>
-  <div class="cta">
-    <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
-    <p><strong>Potrzebujesz bardziej dopasowanej pomocy? Sprawdź poniżej! 💪</strong></p>
-  </div>
-</section>
+
+  <!-- Sekcja Darmowy Plan Startowy -->
+  <section class="start-plan-section">
+    <h2>Darmowy plan startowy</h2>
+    <div class="offer">
+      <p>Dla osób, które <strong>dopiero zaczynają.</strong> Otrzymasz:</p>
+      <ul>
+        <li>Mini-poradnik żywieniowy</li>
+        <li>Plan FBW 2x w tygodniu</li>
+        <li>Plan FBW 3x w tygodniu</li>
+      </ul>
+      <p><strong>0 zł</strong> – kliknij poniżej i odbierz plan!</p>
+    </div>
+    <div class="cta">
+      <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
+      <p><strong>Potrzebujesz bardziej dopasowanej pomocy? Sprawdź poniżej! 💪</strong></p>
+    </div>
+  </section>
+
   <!-- Sekcja Prowadzenie online -->
   <section class="pricing-section">
     <h2>Wybierz pakiet dla siebie!</h2>
@@ -219,20 +221,17 @@ Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciw
     <p>&copy; 2025 Miłosz Bembenek | Jeśli dotrwałeś/aś do tego momentu to napisz do mnie na instagramie i pochwal się swoim maxem na klatę 😁 </p>
   </footer>
   <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const selectors = ['p', 'li', '.about-text', '.cta'];
-    selectors.forEach(selector => {
-      document.querySelectorAll(selector).forEach(el => {
-        el.innerHTML = el.innerHTML
-          // spacja + pojedyncza litera + spacja
-          .replace(/ (\w{1}) /g, ' $1&nbsp;')
-          // spacja + pojedyncza litera + przecinek/kropka
-          .replace(/ (\w{1})([,.])/g, ' $1$2')
-          // spacja + pojedyncza litera na końcu
-          .replace(/ (\w{1})<\/(p|li)>/g, ' $1</$2>');
+    document.addEventListener("DOMContentLoaded", function () {
+      const selectors = ['p', 'li', '.about-text', '.cta'];
+      selectors.forEach(selector => {
+        document.querySelectorAll(selector).forEach(el => {
+          el.innerHTML = el.innerHTML
+            .replace(/ (\w{1}) /g, ' $1&nbsp;')
+            .replace(/ (\w{1})([,.])/g, ' $1$2')
+            .replace(/ (\w{1})<\/(p|li)>/g, ' $1</$2>');
+        });
       });
     });
-  });
-</script>
+  </script>
 </body>
 </html>
