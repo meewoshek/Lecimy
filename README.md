@@ -156,8 +156,8 @@
     <div class="about">
       <img src="IMG_4905.jpg" alt="Miłosz Bembenek – trener">
       <div class="about-text">
-        <p>Cześć!</p>
-        <p>Ej, Ty! Jeśli dalej liczysz, że forma zrobi się sama – to sorry, ale grubo się mylisz. 
+        <p>Ej, Ty!</p>
+        <p>Dalej liczysz, że forma zrobi się sama? Sorry, ale grubo się mylisz. 
           <p>Jestem Miłosz – gość, który pomoże Ci w końcu ogarnąć Twoją formę i pewność siebie, bez zbędnego pieprzenia.<p>
 Współpracuję z facetami w wieku 20–40 lat, którzy mimo ciężkich treningów nadal mają problem ze zrobieniem formy.
 Co zyskujesz? Konkretny plan, proste i smaczne jedzenie i co najważniejsze - EFEKTY. 
