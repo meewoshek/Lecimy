@@ -162,7 +162,7 @@
          <p>Jestem Miłosz – gość, który pomoże Ci w końcu ogarnąć Twoją formę i pewność siebie, <strong>bez zbędnego pieprzenia.</strong></p>
        <p> Współpracuję z facetami w wieku <strong>20–40 lat</strong>, którzy mimo ciężkich treningów nadal mają problem ze zrobieniem formy.</p>
         <p>Co zyskujesz? <strong>Konkretny plan, proste i smaczne jedzenie i co najważniejsze - EFEKTY.</strong></p>
-        <p>I mam dla Ciebie gwarancję: Daj mi 30 dni i działaj zgodnie z moimi wytycznymi, a <strong>daję słowo,</strong> że będziesz zadowolony swoimi efektami. Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciwy deal. To co, działamy?</p>
+        <p>I mam dla Ciebie <strong>gwarancję:</strong> Daj mi <strong>30 dni</strong> i działaj zgodnie z moimi wytycznymi, a <strong>daję słowo,</strong> że będziesz zadowolony swoimi efektami. Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciwy deal. To co, działamy?</p>
        </div>
      </div>
    </section>
