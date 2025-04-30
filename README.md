@@ -159,7 +159,7 @@
        <div class="about-text">
          <p>Jestem Miłosz – gość, który pomoże Ci w końcu ogarnąć Twoją formę <strong>bez zbędnego pieprzenia.</strong></p>
        <p>Zaliczasz się do grona facetów w wieku <strong>20–40 lat</strong>, którzy mimo ciężkich treningów wciąż nie widzą efektów?</p>
-        <p>Co zyskujesz? Konkretne efekty - <strong>lepszą sylwetkę, pewność siebie i plan, który w końcu zadziała!</strong> Chcesz zobaczyć efekty? <strong>Napisz do mnie!</strong></p>
+        <p>Co zyskujesz? Konkretne efekty - <strong>lepszą sylwetkę, pewność siebie i plan, który w końcu zadziała!</strong> Chcesz poczuć różnicę? <strong>Napisz do mnie!</strong></p>
         <p>I mam dla Ciebie <strong>gwarancję:</strong> Przez <strong>30 dni</strong> działaj zgodnie z moimi wytycznymi, a <strong>daję słowo,</strong> że będziesz zadowolony swoimi efektami. Jeśli tak się nie stanie - <strong>zwracam Ci 100% ceny.</strong> Chyba uczciwy deal. To co, <strong>działamy?</strong></p>
        </div>
      </div>
