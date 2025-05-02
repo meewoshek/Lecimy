@@ -198,6 +198,10 @@
        <h3>BESTIA – 449 zł / miesiąc</h3>
        <p>Pełne wsparcie 1:1, kontrola techniki, progresji, diety, analiza stylu życia, codzienny kontakt oraz indywidualna opieka.</p>
      </div>
+    <div class="offer centered">
+       <h3>DO KAŻDEGO ZAKUPIONEGO PAKIETU</h3>
+       <p>Wybrany e-book na temat redukcji albo budowania masy mięśniowej całkowicie <strong>za darmo!</strong></p>
+     </div>
      <div class="cta centered">
        <p>Masz pytania? Napisz do mnie na IG: <strong>@milosz.trenuje</strong></p>
        <a href="https://www.instagram.com/milosz.trenuje" target="_blank">Pogadajmy!</a>
