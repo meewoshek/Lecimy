@@ -179,6 +179,8 @@
      </div>
      <div class="cta centered">
        <a href="https://linktr.ee/meewoshek" target="_blank">Kliknij tutaj</a>
+       </div>
+      <div class="cta centered">
        <p><strong>Potrzebujesz bardziej dopasowanej pomocy? Sprawdź poniżej! 💪</strong></p>
      </div>
    </section>
