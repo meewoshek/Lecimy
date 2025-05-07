@@ -202,7 +202,7 @@
     <div class="offer centered">
        <h3>DO KAŻDEGO ZAKUPIONEGO PAKIETU</h3>
        <p>Wybrany <strong>e-book</strong> na temat</p>
-     <p><strong>ZJEDZ TO, SCHUDNIJ TAMTO - PRAKTYCZNY PRZEWODNIK PO REDUKCJI</strong></p>
+     <p><strong>JAK REDUKOWAĆ I NIE ZWARIOWAĆ</strong></p>
      <p>lub</p>
      <p><strong>JAK ZBUDOWAĆ KOZACKĄ FORMĘ?</strong></p>
      <p>całkowicie <strong>za darmo!</strong></p>
