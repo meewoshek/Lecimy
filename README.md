@@ -202,9 +202,9 @@
     <div class="offer centered">
        <h3>DO KAŻDEGO ZAKUPIONEGO PAKIETU</h3>
        <p>Wybrany <strong>e-book</strong> na temat</p>
-     <p>JAK ZRZUCIĆ BĘBEN?</p>
+     <p><strong>JAK ZRZUCIĆ BĘBEN?</strong></p>
      <p>lub</p>
-     <p>JAK ZBUDOWAĆ ZAJJJEFAJNĄ FORMĘ?</p>
+     <p><strong>JAK ZBUDOWAĆ KOZACKĄ FORMĘ?</strong></p>
      <p>całkowicie <strong>za darmo!</strong></p>
      </div>
      <div class="cta centered">
