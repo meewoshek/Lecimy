@@ -204,7 +204,7 @@
        <p>Wybrany <strong>e-book</strong> na temat</p>
      <p><strong>JAK REDUKOWAĆ I NIE ZWARIOWAĆ</strong></p>
      <p>lub</p>
-     <p><strong>JAK ZBUDOWAĆ KOZACKĄ FORMĘ?</strong></p>
+     <p><strong>EAT, SLEEP, TRAIN, REPEAT - czyli jak zbudować świetną formę</strong></p>
      <p>całkowicie <strong>za darmo!</strong></p>
      </div>
      <div class="cta centered">
