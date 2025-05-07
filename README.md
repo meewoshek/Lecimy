@@ -201,7 +201,11 @@
      </div>
     <div class="offer centered">
        <h3>DO KAŻDEGO ZAKUPIONEGO PAKIETU</h3>
-       <p>Wybrany <strong>e-book</strong> na temat redukcji albo budowania masy mięśniowej całkowicie <strong>za darmo!</strong></p>
+       <p>Wybrany <strong>e-book</strong> na temat</p>
+     <p>JAK ZRZUCIĆ BĘBEN?</p>
+     <p>lub</p>
+     <p>JAK ZBUDOWAĆ ZAJJJEFAJNĄ FORMĘ?</p>
+     <p>całkowicie <strong>za darmo!</strong></p>
      </div>
      <div class="cta centered">
        <p>Masz pytania? Napisz do mnie na IG: <strong>@milosz.trenuje</strong></p>
