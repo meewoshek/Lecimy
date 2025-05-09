@@ -202,7 +202,7 @@
       <div class="cta centered">
        <a href="https://tiny.pl/1ngwr-8q" target="_blank">Wypełnij formularz</a>
     <p></p>
-       <p><strong>Nie czekaj, wypełnij formularz  💪</strong></p>
+       <p><strong>Wypełnij formularz, nic Cię to nie kosztuje, a przekonamy się czy bedę mógł Ci jakos pomóc  💪</strong></p>
      </div>
     <div class="offer centered">
        <h3>DO KAŻDEGO ZAKUPIONEGO PAKIETU</h3>
