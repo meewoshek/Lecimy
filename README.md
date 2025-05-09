@@ -199,12 +199,12 @@
        <h3>BESTIA – 399 zł / miesiąc</h3>
        <p>Pełne wsparcie 1:1, regularne monitorowanie postępów, analiza stylu życia, kontrola techniki, codzienny kontakt oraz indywidualna opieka.</p>
      </div>
-    <div class="offer centered">
       <div class="cta centered">
        <a href="https://tiny.pl/1ngwr-8q" target="_blank">Wypełnij formularz</a>
     <p></p>
        <p><strong>Nie czekaj, wypełnij formularz  💪</strong></p>
      </div>
+    <div class="offer centered">
        <h3>DO KAŻDEGO ZAKUPIONEGO PAKIETU</h3>
        <p>Wybrany <strong>e-book</strong> na temat</p>
      <p><strong>JAK REDUKOWAĆ I NIE ZWARIOWAĆ</strong></p>
