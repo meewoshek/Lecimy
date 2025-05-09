@@ -200,7 +200,7 @@
        <p>Pełne wsparcie 1:1, regularne monitorowanie postępów, analiza stylu życia, kontrola techniki, codzienny kontakt oraz indywidualna opieka.</p>
      </div>
       <div class="cta centered">
-       <a href="https://tiny.pl/1ngwr-8q" target="_blank">Wypełnij formularz</a>
+       <a href="https://tiny.pl/1ngwr-8q" target="_blank">Formularz</a>
     <p></p>
        <p><strong>Wypełnij formularz, nic Cię to nie kosztuje, a przekonamy się czy bedę mógł Ci jakos pomóc  💪</strong></p>
      </div>
