@@ -9,7 +9,7 @@
        margin: 0;
        padding: 0;
        background-color: #121212;
-       color: white;
+       color: #333;
      }
      header {
        background-color: #1e1e2f;
