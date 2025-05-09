@@ -9,11 +9,11 @@
        margin: 0;
        padding: 0;
        background-color: #121212;
-       color: #333;
+       color: white;
      }
      header {
        background-color: #1e1e2f;
-       color: white;
+       color: #333;
        padding: 2rem;
        text-align: center;
      }
