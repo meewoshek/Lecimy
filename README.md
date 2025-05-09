@@ -198,7 +198,7 @@
      </div>
      <div class="offer centered">
        <h3>BESTIA – 399 zł / miesiąc</h3>
-       <p>Pełne wsparcie 1:1, regularne monitorowanie postępów, analiza stylu życia, kontrola techniki, codzienny kontakt oraz indywidualna opieka.</p>
+       <p>Pełne wsparcie 1:1, regularne monitorowanie postępów, rozpisana dieta, analiza stylu życia,  kontrola techniki w formie wideo, możliwe konsultacje telefoniczne albo wideorozmowy, codzienny kontakt oraz indywidualna opieka.</p>
      </div>
       <div class="cta centered">
        <a href="https://tiny.pl/1ngwr-8q" target="_blank">Formularz</a>
