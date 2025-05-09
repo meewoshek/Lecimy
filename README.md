@@ -189,7 +189,7 @@
      <h2>Wybierz jeden z pakietów dla siebie!</h2>
      <div class="offer centered">
        <h3>ROZGRZEWKA – 129 zł / jednorazowo</h3>
-       <p>Indywidualny plan treningowy + wsparcie online. Idealne na początek.</p>
+       <p>Indywidualny plan treningowy, wskazówki treningowe, mini poradnik + wsparcie online. Idealne na początek.</p>
      </div>
      <div class="offer centered">
        <h3>PRZEMIANA – 299 zł / miesiąc</h3>
@@ -197,9 +197,14 @@
      </div>
      <div class="offer centered">
        <h3>BESTIA – 399 zł / miesiąc</h3>
-       <p>Pełne wsparcie 1:1, kontrola techniki, progresji, diety, analiza stylu życia, codzienny kontakt oraz indywidualna opieka.</p>
+       <p>Pełne wsparcie 1:1, regularne monitorowanie postępów, analiza stylu życia, kontrola techniki, codzienny kontakt oraz indywidualna opieka.</p>
      </div>
     <div class="offer centered">
+      <div class="cta centered">
+       <a href="https://tiny.pl/1ngwr-8q" target="_blank">Wypełnij formularz</a>
+    <p></p>
+       <p><strong>Nie czekaj, wypełnij formularz  💪</strong></p>
+     </div>
        <h3>DO KAŻDEGO ZAKUPIONEGO PAKIETU</h3>
        <p>Wybrany <strong>e-book</strong> na temat</p>
      <p><strong>JAK REDUKOWAĆ I NIE ZWARIOWAĆ</strong></p>
