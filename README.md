@@ -208,6 +208,8 @@
      <p><strong>EAT, SLEEP, TRAIN, REPEAT - czyli jak zbudować świetną formę</strong></p>
      <p>całkowicie <strong>za darmo!</strong></p>
     <p></p>
+</div>
+       <div class="offer centered">
        <p><strong>Wypełnij formularz, nic Cię to nie kosztuje, a przekonamy się czy bedę mógł Ci jakos pomóc  💪</strong></p>
      </div>
      <div class="cta centered">
