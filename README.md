@@ -209,7 +209,7 @@
      <p>całkowicie <strong>za darmo!</strong></p>
     <p></p>
 </div>
-       <div class="offer centered">
+       <div class="cta centered">
        <p><strong>Wypełnij formularz, nic Cię to nie kosztuje, a przekonamy się czy bedę mógł Ci jakos pomóc  💪</strong></p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLScXb7DEhlMtPE0ZJyk6UrmUh6Zx_S-GmRNo22hdZ0upYmfwyg/viewform" target="_blank">ANKIETA</a>
      </div>
