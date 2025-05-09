@@ -190,7 +190,7 @@
      <h2>Wybierz jeden z pakietów dla siebie!</h2>
      <div class="offer centered">
        <h3>ROZGRZEWKA – 129 zł / jednorazowo</h3>
-       <p>Indywidualny plan treningowy, wskazówki treningowe, mini poradnik + wsparcie online. Idealne na początek.</p>
+       <p>Indywidualny plan treningowy, wskazówki treningowe, mini poradnik + wsparcie online.</p>
      </div>
      <div class="offer centered">
        <h3>PRZEMIANA – 299 zł / miesiąc</h3>
