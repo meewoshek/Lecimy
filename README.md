@@ -212,11 +212,6 @@
        <div class="cta centered">
        <p><strong>Wypełnij formularz, nic Cię to nie kosztuje, a przekonamy się czy bedę mógł Ci jakos pomóc  💪</strong></p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLScXb7DEhlMtPE0ZJyk6UrmUh6Zx_S-GmRNo22hdZ0upYmfwyg/viewform" target="_blank">ANKIETA</a>
-     </div>
-     <div class="cta centered">
-       <p>Masz pytania? Napisz do mnie na IG: <strong>@milosz.trenuje</strong></p>
-       <a href="https://www.instagram.com/milosz.trenuje" target="_blank">Pogadajmy!</a>
-     </div>
    </section>
  
    <!-- Sekcja Miesięczne wyzwania -->
