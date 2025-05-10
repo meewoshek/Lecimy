@@ -193,15 +193,15 @@ Przez <strong>30 dni</strong> trzymasz się moich wytycznych, a jeśli nie zobac
      <h2>Wybierz jeden z pakietów dla siebie!</h2>
      <div class="offer centered">
        <h3>FORMA – 129 zł / jednorazowo</h3>
-       <p>Konkretny i prosty plan treningowy dostosowany do Twoich możliwości i doświadczenia, porady treningowe i żywieniowe, mini poradnik + wsparcie online.</p>
+       <p>Konkretny i prosty plan treningowy dostosowany do Twoich możliwości i doświadczenia, wskazówki treningowe i żywieniowe, mini poradnik + wsparcie online.</p>
      </div>
      <div class="offer centered">
        <h3>PRZEMIANA – 299 zł / miesiąc</h3>
-       <p>Program treningowy oparty na progresji i dostosowany do Twojego poziomu wytrenowania, rozpisana dieta (kalorie i makroskładniki) oraz jej kontrola, regularne raporty dotyczące progresji ciężaru oraz zmian w sylwetce, porady treningowe i żywieniowe, stały kontakt.</p>
+       <p>Program treningowy oparty na progresji i dostosowany do Twojego poziomu wytrenowania, rozpisana dieta (kalorie i makroskładniki) oraz jej kontrola, regularne raporty dotyczące postępów siłowych oraz zmian w sylwetce, porady treningowe, nawykowe i żywieniowe, stały kontakt.</p>
      </div>
      <div class="offer centered">
        <h3>BESTIA – 399 zł / miesiąc</h3>
-       <p>Pełne wsparcie, plan dopasowany do Twoich celów, regularne monitorowanie postępów, rozpisana dieta, analiza stylu życia,  kontrola techniki w formie wideo, możliwe konsultacje telefoniczne albo wideorozmowy, porady treningowe i żywieniowe, codzienny kontakt oraz indywidualna opieka.</p>
+       <p>Pełne wsparcie, spersonalizowany schemat treningowy dopasowany do Twoich celów i stylu życia, regularne monitorowanie postępów, rozpisana dieta, analiza stylu życia, kontrola techniki w formie wideo, możliwe konsultacje telefoniczne albo wideorozmowy, porady treningowe, nawykowe i żywieniowe, codzienny kontakt oraz indywidualna opieka.</p>
      </div>
       <div class="challenge-section">
          <h3>DO KAŻDEGO ZAKUPIONEGO PAKIETU</h3>
