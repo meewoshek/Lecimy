@@ -160,7 +160,7 @@
        <div class="about-text">
         <p>Jesteś facetem w wieku <strong>20–40 lat</strong>, który trenuje na siłowni i ma efekty... ale mierne? <strong>Brzuch dalej wystaje, siła stoi w miejscu,</strong> a Ty już nie masz na to wszystko pomysłu? Ile jeszcze gotowców z internetu musisz sprawdzić, żeby zrozumieć, że <strong>kopiowanie kogoś innego nie działa?</strong></p>
          <p>Jestem Miłosz – gość, który pomoże Ci w końcu ogarnąć Twoją formę <strong>bez zbędnego pieprzenia.</strong></p>
-        <p>Co zyskujesz? Konkretne efekty - <strong>sylwetkę,</strong> z której w końcu będziesz zadowolony, <strong>plan,</strong> który w końcu zadziała oraz <strong>więcej siły i pewności siebie.</strong> Chcesz poczuć różnicę? <strong>Napisz do mnie!</strong></p>
+        <p>Co zyskujesz? Konkretne efekty - <strong>sylwetkę,</strong> z której w końcu będziesz zadowolony, <strong>plan,</strong> który w końcu zadziała oraz <strong>więcej siły i pewności siebie.</strong> Nie trać więcej czasu na nieskuteczne metody - zainwestuj w siebie i zacznij działać z profesjonalnym wsparciem!</p>
         <p>I najważniejsze – <strong>GWARANCJA:</strong>
 Przez <strong>30 dni</strong> trzymasz się moich wytycznych. Jeśli nie będziesz zadowolony – <strong>oddaję Ci 100% kasy.</strong> Chyba uczciwy deal. To co, <strong>działamy?</strong></p>
        </div>
