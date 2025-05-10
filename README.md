@@ -152,7 +152,9 @@
      <h1>Trener online ale efekty już stacjonarne</h1>
      <p>Pamiętaj, że Twoje wyniki są takie, jak ciężko na nie zapracowałeś!</p>
    </header>
- 
+  
+<section></section>
+
    <section>
      <h2>Dlaczego akurat ja?</h2>
      <div class="about">
