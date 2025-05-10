@@ -190,11 +190,11 @@
      <h2>Wybierz jeden z pakietów dla siebie!</h2>
      <div class="offer centered">
        <h3>ROZGRZEWKA – 129 zł / jednorazowo</h3>
-       <p>Indywidualny plan treningowy dostosowany do Twoich możliwości i doświadczenia, wskazówki treningowe, mini poradnik + wsparcie online.</p>
+       <p>Konkretny i prosty plan treningowy dostosowany do Twoich możliwości i doświadczenia, wskazówki treningowe, mini poradnik + wsparcie online.</p>
      </div>
      <div class="offer centered">
        <h3>PRZEMIANA – 299 zł / miesiąc</h3>
-       <p>Indywidualny plan treningowy, rozpisana dietę (kalorie i makroskładniki) oraz jej kontrola, regularne raporty dotyczące progresji ciężaru oraz sylwetki, stały kontakt.</p>
+       <p>Program treningowy oparty na progresji i dostosowany do Twojego poziomu wytrenowania, rozpisana dietę (kalorie i makroskładniki) oraz jej kontrola, regularne raporty dotyczące progresji ciężaru oraz sylwetki, stały kontakt.</p>
      </div>
      <div class="offer centered">
        <h3>BESTIA – 399 zł / miesiąc</h3>
