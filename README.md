@@ -206,7 +206,7 @@
      <p><strong>JAK REDUKOWAĆ I NIE ZWARIOWAĆ</strong></p>
      <p>lub</p>
      <p><strong>EAT, SLEEP, TRAIN, REPEAT - czyli jak zbudować świetną formę</strong></p>
-     <p>całkowicie <strong>za darmo!</strong></p>
+     <p>całkowicie <strong>ZA DARMO!</strong></p>
     <p></p>
 </div>
        <div class="cta centered">
