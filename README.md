@@ -156,7 +156,6 @@
 <section></section>
 
    <section>
-     <h2>Dlaczego akurat ja?</h2>
      <div class="about">
        <img src="IMG_4905.jpg" alt="Miłosz Bembenek – trener">
        <div class="about-text">
