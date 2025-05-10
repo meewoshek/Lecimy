@@ -194,11 +194,11 @@
      </div>
      <div class="offer centered">
        <h3>PRZEMIANA – 299 zł / miesiąc</h3>
-       <p>Indywidualny plan treningowy, rozpisaną dietę (kalorie i makroskładniki) oraz jej kontrolę, regularne raporty dotyczące progresji ciężaru oraz sylwetki, stały kontakt.</p>
+       <p>Indywidualny plan treningowy, rozpisana dietę (kalorie i makroskładniki) oraz jej kontrola, regularne raporty dotyczące progresji ciężaru oraz sylwetki, stały kontakt.</p>
      </div>
      <div class="offer centered">
        <h3>BESTIA – 399 zł / miesiąc</h3>
-       <p>Pełne wsparcie 1:1, regularne monitorowanie postępów, rozpisana dieta, analiza stylu życia,  kontrola techniki w formie wideo, możliwe konsultacje telefoniczne albo wideorozmowy, codzienny kontakt oraz indywidualna opieka.</p>
+       <p>Pełne wsparcie, plan dopasowany do Twoich celów, regularne monitorowanie postępów, rozpisana dieta, analiza stylu życia,  kontrola techniki w formie wideo, możliwe konsultacje telefoniczne albo wideorozmowy, codzienny kontakt oraz indywidualna opieka.</p>
      </div>
       <div class="offer centered">
          <h3>DO KAŻDEGO ZAKUPIONEGO PAKIETU</h3>
