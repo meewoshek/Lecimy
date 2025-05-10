@@ -194,7 +194,7 @@
      </div>
      <div class="offer centered">
        <h3>PRZEMIANA – 299 zł / miesiąc</h3>
-       <p>Program treningowy oparty na progresji i dostosowany do Twojego poziomu wytrenowania, rozpisana dietę (kalorie i makroskładniki) oraz jej kontrola, regularne raporty dotyczące progresji ciężaru oraz sylwetki, stały kontakt.</p>
+       <p>Program treningowy oparty na progresji i dostosowany do Twojego poziomu wytrenowania, rozpisana dieta (kalorie i makroskładniki) oraz jej kontrola, regularne raporty dotyczące progresji ciężaru oraz zmian w sylwetce, stały kontakt.</p>
      </div>
      <div class="offer centered">
        <h3>BESTIA – 399 zł / miesiąc</h3>
